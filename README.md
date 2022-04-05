@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suman7802
-- 👀 I’m interested in codes
+- 👀 I’m interested in learning python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me mansu7802@gmail.com / https://www.facebook.com/mansu7802

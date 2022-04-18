@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me mansu7802@gmail.com / https://www.facebook.com/mansu7802
+- 📫 How to reach me mansu7802@gmail.com / https://www.facebook.com/mansu7802 / https://www.instagram.com/suman_sharma7802/
 
 <!---
 suman7802/suman7802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

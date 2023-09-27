@@ -4,7 +4,7 @@
 
 <h4 align="center"></h4>
 <p align="center">
-<button onclick="window.location.href = 'https://www.sumansharma7802.com.np'">website</button>
+  <a href="https://www.sumansharma7802.com.np" target="blank"></a>
 </body>
 </p>
 

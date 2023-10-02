@@ -21,5 +21,5 @@
 
 <h4 align="center"></h4>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman7802&" alt="suman7802" height="200cm" width="400cm" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman7802&" alt="suman7802" height="150cm" width="300cm" />
 </p>

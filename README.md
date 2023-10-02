@@ -19,3 +19,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman7802&" alt="suman7802" />
 </p>
 
+<h4 align="center"></h4>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman7802&" alt="suman7802" height="2rem" width="4rem" />
+</p>

@@ -16,10 +16,10 @@
 
 <h4 align="center"></h4>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=suman7802&label=Profile%20views&color=0e75b6&style=flat" alt="suman7802" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman7802&" alt="suman7802" height="150cm" width="300cm" />
 </p>
 
-<h4 align="center"></h4>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman7802&" alt="suman7802" height="150cm" width="300cm" />
+<h4 align="right"></h4>
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=suman7802&label=Profile%20views&color=0e75b6&style=flat" alt="suman7802" />
 </p>

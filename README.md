@@ -4,7 +4,7 @@
 
 <h4 align="center"></h4>
 <p align="center">
-<a href="https://www.sumansharma7802.com.np">sumansharma7802.com.np</a>
+<a href="https://www.sumansharma.me">sumansharma.me</a>
 </p>
 
 <h4 align="center"></h4>
